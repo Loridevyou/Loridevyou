@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Le Mie Storie</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: url('../Artista-digitale-main/images/copertina.jpg') no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+
+        .music-platforms {
+            display: flex; 
+            flex-direction: column; 
+            justify-content: center; 
+            align-items: center; 
+            width: 60%;
+            background-color: rgba(255, 255, 255, 0.2);
+            padding: 20px;
+            border-radius: 25px;
+        }
+
+        .music-platforms div {
+            display: flex; 
+            flex-direction: column; 
+            justify-content: center; 
+            text-align: center; 
+            align-items: center; 
+            margin-bottom: 20px; 
+        }
+
+        .music-platforms img {
+            display: block; 
+            margin: 0 auto; 
+            margin-bottom: 10px; 
+        }
+
+        .music-platforms h2 {
+            font-size: 50px; 
+        }
+
+        .music-platforms .logo {
+            width: 200px; 
+        }
+
+        @media (max-width: 768px) {
+            .music-platforms {
+                width: 90%; 
+                padding: 40px; 
+            }
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <div class="music-platforms">
+        <div>
+            <a href="https://open.spotify.com/track/...">
+                <img class="logo" src="../Artista-digitale-main/images/image-gallery-spotify-logo-21.png" alt="Spotify Logo">
+                <h2>Spotify</h2>
+            </a>
+        </div>
+        <div>
+            <a href="https://music.apple.com/it/album/...">
+                <img class="logo" src="../Artista-digitale-main/images/appleM.png" alt="Apple Music Logo">
+                <h2>Apple Music</h2>
+            </a>
+        </div>
+        <div>
+            <a href="https://music.youtube.com/watch?v=...">
+                <img class="logo" src="../Artista-digitale-main/images/youtube-music-logo-7.png" alt="YouTube Music Logo">
+                <h2>YouTube Music</h2>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
