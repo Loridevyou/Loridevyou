@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 
-**Loridevyou/Loridevyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on create an application software
-- 🌱 I’m currently learning how use python, c#, html, networking, Linux, virtualization and how work in IT with more safety 
+- 🌱 I’m currently learning how use python, c#, html, networking, Linux, virtualization and how work in IT with more safety
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+-->
 - ⚡ Fun fact: I know bit SQL and c++
+
+
 
