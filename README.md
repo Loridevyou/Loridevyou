@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on create an application software
-- 🌱 I’m currently learning how use python, c#, html, networking, Linux, virtualization and how work in IT with more safety
+- 🌱 I’m currently learning how use python, c#, html, networking, Linux, virtualization and how work in IT with more self-confidence
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
